@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='oneforge',
-    version='0.0.1',
+    version='0.1.0',
     description='1Forge REST API wrapper',
     long_description=README,
     long_description_content_type='text/markdown',
@@ -17,7 +17,7 @@ setup(
     url='https://github.com/orgito/1forge-client',
     license='MIT',
     classifiers=[
-        'Development Status :: 3 - Alpha',
+        'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Operating System :: OS Independent',
